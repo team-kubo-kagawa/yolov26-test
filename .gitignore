@@ -1,7 +1,7 @@
-./dataset/
-./outputs/
-./yolov26n-seg.pt
-./yolov26n.pt
+dataset/
+outputs/
+yolov26n-seg.pt
+yolov26n.pt
 __pycache__/
 *.pt
 *.log
